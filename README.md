@@ -36,3 +36,5 @@ The aim of this project was to analyze sales data and build an interactive dashb
 - Data Analysis  
 - Dashboard Design  
 - Business Intelligence using Excel
+
+![Ferns and Petals Dashboard](./Screenshot%202024-10-24%20160552.png)
